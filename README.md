@@ -1,4 +1,3 @@
-# Ruby on Rails Tutorial: sample application
+# SURF|Bio application
 
-This is the sample application for
-the [*Ruby on Rails Tutorial*](http://railstutorial.org/)
+This will keep some updates on surfbio delivery
